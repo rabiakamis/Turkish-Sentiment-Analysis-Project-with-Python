@@ -1,0 +1,5 @@
+değil
+yok
+hayır
+hiç
+ama

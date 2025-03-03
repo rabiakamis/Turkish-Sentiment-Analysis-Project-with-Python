@@ -1,0 +1,4 @@
+kesinlikle:1.5 
+gerçekten:0.5
+aşırı:2.0
+çoktan:2.0
